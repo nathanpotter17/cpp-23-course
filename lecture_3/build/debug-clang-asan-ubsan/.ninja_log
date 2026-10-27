@@ -1,5 +1,0 @@
-# ninja log v7
-0	6	1791417274781814341	/home/nate/Documents/Code/cpp-mastery/lecture_3/build/debug-clang-asan-ubsan/CMakeFiles/cmake.verify_globs	cec4fe15ddb512a9
-6	279	1791417274786770595	CMakeFiles/lecture_3.dir/lecture_3/src/grid.cpp.o	b7b29a0b72c86495
-6	2040	1791417274787509533	CMakeFiles/lecture_3.dir/lecture_3/src/main.cpp.o	478a75b05e6cd194
-2040	2131	1791417276820780545	lecture_3	7dd97cee82b0efda

@@ -1,7 +1,0 @@
-# ninja log v7
-1	5	1791415476670368018	/home/nate/Documents/Code/cpp-mastery/lecture_4/build/debug-gpp/CMakeFiles/cmake.verify_globs	5bdd2959f3f3671c
-6	1081	1791415476675003550	CMakeFiles/lecture_4.dir/lecture_4/src/main.cpp.o	c943dce8fcf7060c
-1082	1126	1791415477751240037	lecture_4	7ec3e7212da1d65f
-0	5	1791417280440798254	/home/nate/Documents/Code/cpp-mastery/lecture_4/build/debug-gpp/CMakeFiles/cmake.verify_globs	5bdd2959f3f3671c
-6	1128	1791417280446798283	CMakeFiles/lecture_4.dir/lecture_4/src/main.cpp.o	c943dce8fcf7060c
-1128	1174	1791417281568803772	lecture_4	7ec3e7212da1d65f

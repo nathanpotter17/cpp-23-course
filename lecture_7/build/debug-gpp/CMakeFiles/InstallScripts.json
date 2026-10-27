@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gpp/cmake_install.cmake",
-		"/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gpp/vendor/SDL3/cmake_install.cmake",
-		"/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gpp/vendor/Vulkan-Headers/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,8 +1,0 @@
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/CMakeFiles/lecture_7.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/CMakeFiles/edit_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/CMakeFiles/rebuild_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/vendor/SDL3/CMakeFiles/SDL3-static.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/vendor/SDL3/CMakeFiles/edit_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/vendor/SDL3/CMakeFiles/rebuild_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/vendor/Vulkan-Headers/CMakeFiles/edit_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_7/build/release-gpp/vendor/Vulkan-Headers/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,0 @@
-/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-clang/CMakeFiles/lecture_6.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-clang/CMakeFiles/edit_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-clang/CMakeFiles/rebuild_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-clang/vendor/nlohmann_json/CMakeFiles/edit_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-clang/vendor/nlohmann_json/CMakeFiles/rebuild_cache.dir
