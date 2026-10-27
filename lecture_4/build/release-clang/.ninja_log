@@ -1,0 +1,7 @@
+# ninja log v7
+0	5	1791415487650795741	/home/nate/Documents/Code/cpp-mastery/lecture_4/build/release-clang/CMakeFiles/cmake.verify_globs	1676a08110d9df84
+5	1237	1791415487655061268	CMakeFiles/lecture_4.dir/lecture_4/src/main.cpp.o	ec683b374704275e
+1237	1882	1791415488887719270	lecture_4	b0cb765e5aed14ef
+0	5	1791417284638818790	/home/nate/Documents/Code/cpp-mastery/lecture_4/build/release-clang/CMakeFiles/cmake.verify_globs	1676a08110d9df84
+5	1260	1791417284643818815	CMakeFiles/lecture_4.dir/lecture_4/src/main.cpp.o	ec683b374704275e
+1260	1914	1791417285898824954	lecture_4	b0cb765e5aed14ef

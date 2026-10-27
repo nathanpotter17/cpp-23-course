@@ -1,0 +1,5 @@
+# ninja log v7
+1	5	1791417273650373670	/home/nate/Documents/Code/cpp-mastery/lecture_3/build/debug-gpp/CMakeFiles/cmake.verify_globs	b803ed68a0e1818d
+5	205	1791417273653765052	CMakeFiles/lecture_3.dir/lecture_3/src/grid.cpp.o	d859c467ffcf062e
+6	813	1791417273655073986	CMakeFiles/lecture_3.dir/lecture_3/src/main.cpp.o	577556b926df1e20
+813	857	1791417274461769005	lecture_3	41d9fc04021859d1

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan",
+  "command": "/usr/bin/g++ -DVULKAN_HPP_HANDLE_ERROR_OUT_OF_DATE_AS_SUCCESS -DVULKAN_HPP_NO_CONSTRUCTORS -I/home/nate/Documents/Code/cpp-mastery/lecture_7/src -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan/vendor/SDL3/include-revision -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/vendor/SDL3/include -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/vendor/Vulkan-Headers/include -g -std=c++23 -Wall -Wextra -Wpedantic -g -O1 -fno-omit-frame-pointer -fno-optimize-sibling-calls -fsanitize=address,undefined -o CMakeFiles/lecture_7.dir/lecture_7/src/main.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_7/src/main.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_7/src/main.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan/CMakeFiles/lecture_7.dir/lecture_7/src/main.cpp.o"
+},
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan",
+  "command": "/usr/bin/g++ -DVULKAN_HPP_HANDLE_ERROR_OUT_OF_DATE_AS_SUCCESS -DVULKAN_HPP_NO_CONSTRUCTORS -I/home/nate/Documents/Code/cpp-mastery/lecture_7/src -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan/vendor/SDL3/include-revision -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/vendor/SDL3/include -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/vendor/Vulkan-Headers/include -g -std=c++23 -Wall -Wextra -Wpedantic -g -O1 -fno-omit-frame-pointer -fno-optimize-sibling-calls -fsanitize=address,undefined -o CMakeFiles/lecture_7.dir/lecture_7/src/swapchain.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_7/src/swapchain.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_7/src/swapchain.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan/CMakeFiles/lecture_7.dir/lecture_7/src/swapchain.cpp.o"
+},
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan",
+  "command": "/usr/bin/g++ -DVULKAN_HPP_HANDLE_ERROR_OUT_OF_DATE_AS_SUCCESS -DVULKAN_HPP_NO_CONSTRUCTORS -I/home/nate/Documents/Code/cpp-mastery/lecture_7/src -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan/vendor/SDL3/include-revision -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/vendor/SDL3/include -isystem /home/nate/Documents/Code/cpp-mastery/lecture_7/vendor/Vulkan-Headers/include -g -std=c++23 -Wall -Wextra -Wpedantic -g -O1 -fno-omit-frame-pointer -fno-optimize-sibling-calls -fsanitize=address,undefined -o CMakeFiles/lecture_7.dir/lecture_7/src/vulkan_setup.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_7/src/vulkan_setup.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_7/src/vulkan_setup.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_7/build/debug-gcc-asan-ubsan/CMakeFiles/lecture_7.dir/lecture_7/src/vulkan_setup.cpp.o"
+}
+]

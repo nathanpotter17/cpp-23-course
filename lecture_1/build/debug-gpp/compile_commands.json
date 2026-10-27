@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_1/build/debug-gpp",
+  "command": "/usr/bin/g++ -I/home/nate/Documents/Code/cpp-mastery/lecture_1/src -g -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles/lecture_1.dir/lecture_1/main.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_1/main.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_1/main.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_1/build/debug-gpp/CMakeFiles/lecture_1.dir/lecture_1/main.cpp.o"
+}
+]

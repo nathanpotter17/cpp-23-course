@@ -1,0 +1,8 @@
+# ninja log v7
+1	5	1791417271829188544	/home/nate/Documents/Code/cpp-mastery/lecture_2/build/release-gpp/CMakeFiles/cmake.verify_globs	8b1faadf38920090
+6	39	1791417271834427614	CMakeFiles/lecture_2.dir/lecture_2/src/arena.cpp.o	10cebb8dccb13531
+6	573	1791417271834860161	CMakeFiles/lecture_2.dir/lecture_2/src/main.cpp.o	af365deb99d10f5e
+6	577	1791417271834639176	CMakeFiles/lecture_2.dir/lecture_2/src/lifetimes.cpp.o	ba6f0b8632400901
+6	635	1791417271833756149	CMakeFiles/lecture_2.dir/lecture_2/src/alignment.cpp.o	b75bb86d65d90429
+6	643	1791417271834963348	CMakeFiles/lecture_2.dir/lecture_2/src/ownership.cpp.o	e2b0664463b72257
+643	1626	1791417272470759265	lecture_2	e3f3ecd06730c53d

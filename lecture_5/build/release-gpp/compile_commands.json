@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/release-gpp",
+  "command": "/usr/bin/g++ -I/home/nate/Documents/Code/cpp-mastery/lecture_5/src -O3 -DNDEBUG -std=c++23 -flto=auto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -o CMakeFiles/lecture_5.dir/lecture_5/src/includes/lodepng/lodepng.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_5/src/includes/lodepng/lodepng.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_5/src/includes/lodepng/lodepng.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/release-gpp/CMakeFiles/lecture_5.dir/lecture_5/src/includes/lodepng/lodepng.cpp.o"
+},
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/release-gpp",
+  "command": "/usr/bin/g++ -I/home/nate/Documents/Code/cpp-mastery/lecture_5/src -O3 -DNDEBUG -std=c++23 -flto=auto -fno-fat-lto-objects -Wall -Wextra -Wpedantic -o CMakeFiles/lecture_5.dir/lecture_5/src/main.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_5/src/main.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_5/src/main.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/release-gpp/CMakeFiles/lecture_5.dir/lecture_5/src/main.cpp.o"
+}
+]

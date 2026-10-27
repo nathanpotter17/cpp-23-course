@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_3/build/debug-clang",
+  "command": "/usr/bin/clang++ -I/home/nate/Documents/Code/cpp-mastery/lecture_3/src -g -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles/lecture_3.dir/lecture_3/src/grid.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_3/src/grid.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_3/src/grid.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_3/build/debug-clang/CMakeFiles/lecture_3.dir/lecture_3/src/grid.cpp.o"
+},
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_3/build/debug-clang",
+  "command": "/usr/bin/clang++ -I/home/nate/Documents/Code/cpp-mastery/lecture_3/src -g -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles/lecture_3.dir/lecture_3/src/main.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_3/src/main.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_3/src/main.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_3/build/debug-clang/CMakeFiles/lecture_3.dir/lecture_3/src/main.cpp.o"
+}
+]

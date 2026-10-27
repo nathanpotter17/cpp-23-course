@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-gpp/cmake_install.cmake",
+		"/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-gpp/vendor/nlohmann_json/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

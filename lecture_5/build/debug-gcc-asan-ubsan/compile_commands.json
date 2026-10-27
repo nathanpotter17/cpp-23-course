@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/debug-gcc-asan-ubsan",
+  "command": "/usr/bin/g++ -I/home/nate/Documents/Code/cpp-mastery/lecture_5/src -g -std=c++23 -Wall -Wextra -Wpedantic -g -O1 -fno-omit-frame-pointer -fno-optimize-sibling-calls -fsanitize=address,undefined -o CMakeFiles/lecture_5.dir/lecture_5/src/includes/lodepng/lodepng.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_5/src/includes/lodepng/lodepng.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_5/src/includes/lodepng/lodepng.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/debug-gcc-asan-ubsan/CMakeFiles/lecture_5.dir/lecture_5/src/includes/lodepng/lodepng.cpp.o"
+},
+{
+  "directory": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/debug-gcc-asan-ubsan",
+  "command": "/usr/bin/g++ -I/home/nate/Documents/Code/cpp-mastery/lecture_5/src -g -std=c++23 -Wall -Wextra -Wpedantic -g -O1 -fno-omit-frame-pointer -fno-optimize-sibling-calls -fsanitize=address,undefined -o CMakeFiles/lecture_5.dir/lecture_5/src/main.cpp.o -c /home/nate/Documents/Code/cpp-mastery/lecture_5/src/main.cpp",
+  "file": "/home/nate/Documents/Code/cpp-mastery/lecture_5/src/main.cpp",
+  "output": "/home/nate/Documents/Code/cpp-mastery/lecture_5/build/debug-gcc-asan-ubsan/CMakeFiles/lecture_5.dir/lecture_5/src/main.cpp.o"
+}
+]

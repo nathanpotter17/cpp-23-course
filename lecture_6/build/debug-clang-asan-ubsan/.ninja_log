@@ -1,0 +1,5 @@
+# ninja log v7
+1	6	1791397861718333845	/home/nate/Documents/Code/cpp-mastery/lecture_6/build/debug-clang-asan-ubsan/CMakeFiles/cmake.verify_globs	52db5f6c43d0b522
+6	3053	1791397861722516368	CMakeFiles/lecture_6.dir/lecture_6/src/includes/lodepng/lodepng.cpp.o	850fe615c8439e81
+6	5510	1791397861723699774	CMakeFiles/lecture_6.dir/lecture_6/src/main.cpp.o	b38fab19917680f0
+5511	5619	1791397867228470440	lecture_6	66dde8b79e285b1c
