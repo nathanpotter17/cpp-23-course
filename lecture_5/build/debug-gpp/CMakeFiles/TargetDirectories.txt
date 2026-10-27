@@ -1,3 +1,0 @@
-/home/nate/Documents/Code/cpp-mastery/lecture_5/build/debug-gpp/CMakeFiles/lecture_5.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_5/build/debug-gpp/CMakeFiles/edit_cache.dir
-/home/nate/Documents/Code/cpp-mastery/lecture_5/build/debug-gpp/CMakeFiles/rebuild_cache.dir
